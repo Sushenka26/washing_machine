@@ -1,5 +1,5 @@
 # washing_machine
-Půlsemestrální projekt embedded systémů - podel pračky jako konečný automat
+Půlsemestrální projekt embedded systémů - model pračky jako konečný automat
 
 Zadání
 Vytvořte program s využitím modelu pračky připojeného k výukovému kitu.
